@@ -111,11 +111,3 @@ touch index.html script.js styles.css
 ## 16. Attach ACM Certificate to Load Balancer
 
 ---
-
-### Tasks to be completed
-
-- [ ] Instead of three Security Group create Five Security Group
-- [ ] Create a Internal Load Balancer for AppServer
-- [ ] Create a AutoScaling for Webserver & Appserver
-- [ ] Using Cloudcraft/draw.io Draw a Three tier Diagram
-- [ ] Read the 4 Part DR strategies document [Click Me](https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-i-strategies-for-recovery-in-the-cloud/)
