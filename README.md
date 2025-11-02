@@ -110,4 +110,3 @@ touch index.html script.js styles.css
 
 ## 16. Attach ACM Certificate to Load Balancer
 
----
